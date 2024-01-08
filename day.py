@@ -1,1 +1,5 @@
 print("Hello Anshu")
+print("28+50")
+print(28+50)
+print("Hello","Anshu")
+print(10>20)

@@ -1,0 +1,13 @@
+a=20
+b=40
+print(a+b)
+print(a-b)
+print(a*b)
+print(a%b)
+print(a/b)
+print(a//b)
+print(a**b)
+print(a%3)
+print(5**2)
+print(20/2)
+print(20//2)
